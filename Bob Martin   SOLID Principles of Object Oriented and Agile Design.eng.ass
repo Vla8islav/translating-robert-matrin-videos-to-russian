@@ -8,8 +8,8 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: None
 
 [Aegisub Project Garbage]
-Audio File: /home/vla8islav/github/translating-robert-matrin-videos-to-russian/Bob Martin   SOLID Principles of Object Oriented and Agile Design.mp4
-Active Line: 4
+Audio File: Bob Martin   SOLID Principles of Object Oriented and Agile Design.mp4
+Active Line: 92
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -21,4 +21,92 @@ Dialogue: 0,0:00:06.75,0:00:08.15,Default,,0,0,0,,Good evening.
 Dialogue: 0,0:00:08.15,0:00:09.50,Default,,0,0,0,,My name is Kyle Jensen
 Dialogue: 0,0:00:09.50,0:00:14.30,Default,,0,0,0,,...school management and I'm also director of entrepreneurial programs here.
 Dialogue: 0,0:00:14.30,0:00:17.90,Default,,0,0,0,,Our guest tonight is Robert Martin
-Dialogue: 0,0:00:17.90,0:00:19.90,Default,,0,0,0,,
+Dialogue: 0,0:00:17.90,0:00:21.90,Default,,0,0,0,,Who's gonna talk about SOLID principles of object oriented and Agile design
+Dialogue: 0,0:00:21.90,0:00:24.20,Default,,0,0,0,,We're very lucky to have him here
+Dialogue: 0,0:00:24.20,0:00:27.75,Default,,0,0,0,,... he's here at the great time for Yale
+Dialogue: 0,0:00:27.75,0:00:31.20,Default,,0,0,0,,As you may know the university investing a great deal into entrepreneurship
+Dialogue: 0,0:00:31.20,0:00:34.30,Default,,0,0,0,,And it's creating, I think
+Dialogue: 0,0:00:34.30,0:00:38.45,Default,,0,0,0,,Or mixing with university's traditional expertise and
+Dialogue: 0,0:00:38.45,0:00:40.90,Default,,0,0,0,,let's say, computer science, and a theory side and 
+Dialogue: 0,0:00:40.90,0:00:42.60,Default,,0,0,0,,...all sorts of great things on campus.
+Dialogue: 0,0:00:42.60,0:00:46.25,Default,,0,0,0,,So, for example, two years ago I started tech bootcamp
+Dialogue: 0,0:00:46.25,0:00:48.05,Default,,0,0,0,,and hack Yale(?) started 
+Dialogue: 0,0:00:48.05,0:00:51.15,Default,,0,0,0,,Year ago I had brought together a thousand developers 
+Dialogue: 0,0:00:51.15,0:00:53.40,Default,,0,0,0,,From throughout the country to the two-day hackathon
+Dialogue: 0,0:00:53.40,0:00:55.25,Default,,0,0,0,,This semester
+Dialogue: 0,0:00:55.25,0:00:58.40,Default,,0,0,0,,Daniel Bobby(?) changed the introduction program to course here
+Dialogue: 0,0:00:58.40,0:01:00.90,Default,,0,0,0,,Which is the kind of core programming course for
+Dialogue: 0,0:01:00.90,0:01:02.90,Default,,0,0,0,,non-majors to be
+Dialogue: 0,0:01:02.90,0:01:04.55,Default,,0,0,0,,Mobile application development
+Dialogue: 0,0:01:04.55,0:01:07.60,Default,,0,0,0,,And Daniel and I teaching together next year(?)
+Dialogue: 0,0:01:07.60,0:01:08.75,Default,,0,0,0,,in the spring.
+Dialogue: 0,0:01:08.75,0:01:14.40,Default,,0,0,0,,Got Computer Science 113 which in entrepreneurship in programming, we have a course on management in software development here.
+Dialogue: 0,0:01:14.40,0:01:15.85,Default,,0,0,0,,At the Yale school vangan(?)
+Dialogue: 0,0:01:15.85,0:01:23.50,Default,,0,0,0,,So this is to say that there's great interest at Yale in software development and
+Dialogue: 0,0:01:23.50,0:01:26.20,Default,,0,0,0,,And it transcends a couple different disciplines so it's
+Dialogue: 0,0:01:26.20,0:01:30.05,Default,,0,0,0,,here(?) the school of management and department of computer science it's school of engineering 
+Dialogue: 0,0:01:30.05,0:01:32.85,Default,,0,0,0,,and all sorts of places and across different clubs so
+Dialogue: 0,0:01:32.85,0:01:34.95,Default,,0,0,0,,organizations like the Yale  
+Dialogue: 0,0:01:34.95,0:01:37.80,Default,,0,0,0,,entrepreneurs to Hack Yale, entrepreneurship club here
+Dialogue: 0,0:01:37.80,0:01:40.80,Default,,0,0,0,,ITS, Y-Hack, all these kinds of organizations
+Dialogue: 0,0:01:40.80,0:01:43.40,Default,,0,0,0,,and it's not just Yale
+Dialogue: 0,0:01:43.40,0:01:45.25,Default,,0,0,0,,there is couple logos up there
+Dialogue: 0,0:01:45.25,0:01:51.50,Default,,0,0,0,,that are not, I think, that are not at Yale but indicative of a activity
+Dialogue: 0,0:01:51.50,0:01:53.70,Default,,0,0,0,,in this space, in a local community.
+Dialogue: 0,0:01:53.70,0:01:56.70,Default,,0,0,0,,So we have to thank for the food tonight 
+Dialogue: 0,0:01:56.70,0:01:59.90,Default,,0,0,0,,Caniody Control(?) which is local startup and Ruby Shop filled with
+Dialogue: 0,0:01:59.90,0:02:02.10,Default,,0,0,0,,wonderful hackers and developers
+Dialogue: 0,0:02:02.10,0:02:04.65,Default,,0,0,0,,who are very active in http://newhaven.io which is local
+Dialogue: 0,0:02:04.65,0:02:07.00,Default,,0,0,0,,developer group that I've honored to be a part of, my work with
+Dialogue: 0,0:02:07.00,0:02:09.75,Default,,0,0,0,,Dan and Joel and may other people who are here
+Dialogue: 0,0:02:09.75,0:02:13.85,Default,,0,0,0,,To organize a variety events for the haven.io and I'm happy to say
+Dialogue: 0,0:02:13.85,0:02:18.00,Default,,0,0,0,,that the plurality of people here tonight are actually probably not
+Dialogue: 0,0:02:18.00,0:02:20.60,Default,,0,0,0,,Not from Yale which I think is really important because
+Dialogue: 0,0:02:20.60,0:02:24.55,Default,,0,0,0,,Traditionally Yale has this town in gown problem, right, where is not much(?)
+Dialogue: 0,0:02:24.55,0:02:26.30,Default,,0,0,0,,Where is not much interaction
+Dialogue: 0,0:02:26.30,0:02:30.95,Default,,0,0,0,,And I think it's a real problem, I think that it's the area which we have mutual interest and excitement
+Dialogue: 0,0:02:30.95,0:02:34.20,Default,,0,0,0,,And so it's wonderful to have a events like these and we very happy to have 
+Dialogue: 0,0:02:34.20,0:02:35.85,Default,,0,0,0,,a Bob here to speak so
+Dialogue: 0,0:02:35.85,0:02:39.65,Default,,0,0,0,,I'm gonna invite Dan to come up and
+Dialogue: 0,0:02:39.65,0:02:41.30,Default,,0,0,0,,Introduce themselves and 
+Dialogue: 0,0:02:41.30,0:02:44.55,Default,,0,0,0,,while you needn't to introduce yourself you should just introduce Bob
+Dialogue: 0,0:02:44.55,0:02:47.55,Default,,0,0,0,,Dan, I introduce you, so Dan is
+Dialogue: 0,0:02:47.55,0:02:50.10,Default,,0,0,0,,Dan is a developer at Continuity Control
+Dialogue: 0,0:02:50.10,0:02:53.45,Default,,0,0,0,,He has been a organizer of a
+Dialogue: 0,0:02:53.45,0:02:55.45,Default,,0,0,0,,local Ruby group for many years
+Dialogue: 0,0:02:55.45,0:02:57.45,Default,,0,0,0,,Organizer of haven.io
+Dialogue: 0,0:02:57.45,0:02:59.70,Default,,0,0,0,,I think he's on a board of haven.io
+Dialogue: 0,0:02:59.70,0:03:02.80,Default,,0,0,0,,He's essentially very active local developer 
+Dialogue: 0,0:03:02.80,0:03:05.10,Default,,0,0,0,,Very supportive of the local community
+Dialogue: 0,0:03:05.10,0:03:10.30,Default,,0,0,0,,and I think that it's wonderful on it's how our friendship is grown in that context, so, Dan
+Dialogue: 0,0:03:10.30,0:03:12.10,Default,,0,0,0,,Thank you
+Dialogue: 0,0:03:12.10,0:03:16.50,Default,,0,0,0,,So (?) here (?) and I 
+Dialogue: 0,0:03:16.50,0:03:20.90,Default,,0,0,0,,(?)
+Dialogue: 0,0:03:20.90,0:03:24.40,Default,,0,0,0,,You're hiring?(?) You joing the Sax?(?)
+Dialogue: 0,0:03:24.40,0:03:29.80,Default,,0,0,0,,talk to(?)
+Dialogue: 0,0:03:29.80,0:03:32.05,Default,,0,0,0,,Hello, any better?
+Dialogue: 0,0:03:32.05,0:03:34.45,Default,,0,0,0,,Alright, ...projecting(?), sorry.
+Dialogue: 0,0:03:34.45,0:03:38.90,Default,,0,0,0,,Alright, Dan Bernier, cat nuity(?), haven.io
+Dialogue: 0,0:03:38.90,0:03:42.90,Default,,0,0,0,,Some reversion, alright, so 
+Dialogue: 0,0:03:42.90,0:03:44.95,Default,,0,0,0,,Like I did said, we're hiring
+Dialogue: 0,0:03:44.95,0:03:48.60,Default,,0,0,0,,And we will have a little continuity, the help-ins(?), so
+Dialogue: 0,0:03:48.60,0:03:51.15,Default,,0,0,0,,we do some pretty interesting things.
+Dialogue: 0,0:03:51.15,0:03:53.15,Default,,0,0,0,,We aim to have a very clean code,
+Dialogue: 0,0:03:53.15,0:03:55.95,Default,,0,0,0,,We have some interesting projects coming up with the machine learning
+Dialogue: 0,0:03:55.95,0:03:57.95,Default,,0,0,0,,Interesting stuff like that, so
+Dialogue: 0,0:03:57.95,0:04:01.70,Default,,0,0,0,,We're hiring, come talk to us.
+Dialogue: 0,0:04:01.70,0:04:08.55,Default,,0,0,0,,So, software is, making software is a wired business, it's a messy business.
+Dialogue: 0,0:04:08.55,0:04:11.15,Default,,0,0,0,,There are a bit of students may not have found this out yet,
+Dialogue: 0,0:04:11.15,0:04:14.55,Default,,0,0,0,,because if it's just for fun, it's a lot of fun,
+Dialogue: 0,0:04:14.55,0:04:20.90,Default,,0,0,0,,But when it matters, when the people paying you for the software that you're writing or people using your software
+Dialogue: 0,0:04:20.90,0:04:23.85,Default,,0,0,0,,God forbid, people who's lifes depend on your software.
+Dialogue: 0,0:04:23.85,0:04:25.70,Default,,0,0,0,,It's a weird business 
+Dialogue: 0,0:04:25.70,0:04:30.40,Default,,0,0,0,,and sometimes you can feel kind of like we're bunch of kids running around 
+Dialogue: 0,0:04:30.40,0:04:33.75,Default,,0,0,0,,with our shoes untied and you just hoping you don't fall down.
+Dialogue: 0,0:04:33.75,0:04:40.50,Default,,0,0,0,,But luckily we have an uncle looking out for us, giving us the kick in the butt once in while when we need it
+Dialogue: 0,0:04:40.50,0:04:46.75,Default,,0,0,0,,Uncle Bob has been doing quite a number of things over his career
+Dialogue: 0,0:04:46.75,0:04:50.35,Default,,0,0,0,,he helped write and signed the Agile manifesto.
+Dialogue: 0,0:04:50.35,0:04:56.40,Default,,0,0,0,,Which really helped the industry to rethink the way it looks at working with business people
+Dialogue: 0,0:04:56.40,0:04:58.55,Default,,0,0,0,,and the way we plan software
+Dialogue: 0,0:04:58.55,0:05:01.50,Default,,0,0,0,,How much we can know about the piece of software before we've built it?
+Dialogue: 0,0:05:01.50,0:05:03.50,Default,,0,0,0,,
