@@ -1,0 +1,106 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Scroll Position: 54
+Active Line: 85
+Video Zoom Percent: 0.25
+Audio URI: ../Downloads/Bob Martin   SOLID Principles of Object Oriented and Agile Design.mp4
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:41:47.18,0:41:49.36,Default,,0,0,0,,And the "diamond problem" has been solved.
+Dialogue: 0,0:41:51.38,0:41:57.76,Default,,0,0,0,,the "diamond problem" is simple - you get a basecl... a derivative(?) 
+Dialogue: 0,0:41:53.20,0:41:57.78,Default,,0,0,0,,two base classes, both of this classes have a common base class - it is the "deadly diamond of death"
+Dialogue: 0,0:41:57.78,0:42:03.00,Default,,0,0,0,,and there is a huba ambiguity around that, we won't go into the details
+Dialogue: 0,0:42:03.00,0:42:08.68,Default,,0,0,0,,but why didn't they resolved it, cause it had been resolved before by many other languages?
+Dialogue: 0,0:42:09.26,0:42:12.10,Default,,0,0,0,,Why didn't Java resolve this?
+Dialogue: 0,0:42:12.96,0:42:16.20,Default,,0,0,0,,To simplify the compiler. This is my best guess.
+Dialogue: 0,0:42:16.20,0:42:20.12,Default,,0,0,0,,They were too lazy to deal with it, so they invented a horrible hack, called "interface"
+Dialogue: 0,0:42:20.36,0:42:27.76,Default,,0,0,0,,And they stuck that in the language instead
+Dialogue: 0,0:42:24.74,0:42:27.92,Default,,0,0,0,,?? rewiev the interface ??, interfaces are good
+Dialogue: 0,0:42:27.92,0:42:32.12,Default,,0,0,0,,Interfaces are wonderful, and Interface is nothing than an abstract class with a bunch of abstract methods in it
+Dialogue: 0,0:42:32.66,0:42:34.70,Default,,0,0,0,,Right? It's not some special thing
+Dialogue: 0,0:42:35.00,0:42:39.20,Default,,0,0,0,,In fact the only special thing in java about in interface is what you can't do to it.
+Dialogue: 0,0:42:39.70,0:42:44.60,Default,,0,0,0,,You can't inherit multiple interfaces, you can't inherit multiple classes
+Dialogue: 0,0:42:44.96,0:42:49.70,Default,,0,0,0,,In to another class. Why? because the only thint that you allowed to multiple inherit is interfaces
+Dialogue: 0,0:42:50.46,0:42:53.22,Default,,0,0,0,,A hack... A lazy hack...
+Dialogue: 0,0:42:53.22,0:42:56.62,Default,,0,0,0,,They should not have done that. They should have solved the problem
+Dialogue: 0,0:42:56.62,0:42:58.84,Default,,0,0,0,,In stead of just throwing it out
+Dialogue: 0,0:42:58.84,0:43:02.16,Default,,0,0,0,,And then what happened it went to a bunch of other languages
+Dialogue: 0,0:43:02.78,0:43:06.54,Default,,0,0,0,,You can tell that I'm enjoying myself, aren't you?
+Dialogue: 0,0:43:06.54,0:43:13.84,Default,,0,0,0,,Ok, so. We did have inheritance of a kind in C, we were able to simulate it
+Dialogue: 0,0:43:13.84,0:43:19.56,Default,,0,0,0,,But it wasn't very convinient, so what I'll do here is I will give C
+Dialogue: 0,0:43:19.56,0:43:24.30,Default,,0,0,0,,half credit, I will give OO half credit for giving us
+Dialogue: 0,0:43:24.30,0:43:27.52,Default,,0,0,0,,a slightly more convinient inheritance. 
+Dialogue: 0,0:43:27.52,0:43:30.34,Default,,0,0,0,,Ruby programmers, how much do you use inheritance?
+Dialogue: 0,0:43:30.40,0:43:31.50,Default,,0,0,0,,All the time
+Dialogue: 0,0:43:31.50,0:43:33.50,Default,,0,0,0,,Yea, for what?
+Dialogue: 0,0:43:33.16,0:43:35.02,Default,,0,0,0,,mixins
+Dialogue: 0,0:43:35.02,0:43:37.02,Default,,0,0,0,,Active record
+Dialogue: 0,0:43:37.02,0:43:41.50,Default,,0,0,0,,Do you use it for polymorphism?
+Dialogue: 0,0:43:43.14,0:43:44.78,Default,,0,0,0,,on ducktypes (?)
+Dialogue: 0,0:43:44.78,0:43:46.78,Default,,0,0,0,,do you need to use inheritance for ducktypes?
+Dialogue: 0,0:43:46.78,0:43:50.48,Default,,0,0,0,,No, no
+Dialogue: 0,0:43:50.48,0:43:54.18,Default,,0,0,0,,In Ruby, in Python - dinamically typed languages
+Dialogue: 0,0:43:54.18,0:43:56.56,Default,,0,0,0,,you can have polymorphism without any inheritance
+Dialogue: 0,0:43:56.56,0:43:59.90,Default,,0,0,0,,in fact, all polymorphism in this languages
+Dialogue: 0,0:43:59.90,0:44:02.84,Default,,0,0,0,,comes without inheritance. Inheritance is not necessary 
+Dialogue: 0,0:44:02.84,0:44:06.04,Default,,0,0,0,,What you use inheritance for in dinamically typed languages
+Dialogue: 0,0:44:06.04,0:44:08.52,Default,,0,0,0,,is to inherit behavior and variables
+Dialogue: 0,0:44:08.52,0:44:11.24,Default,,0,0,0,,but not interface
+Dialogue: 0,0:44:11.24,0:44:14.12,Default,,0,0,0,,you can get all the polymorphism you wanf for free
+Dialogue: 0,0:44:14.12,0:44:19.20,Default,,0,0,0,,In Java, DotNet and C++ we have to have inheritance to do polymorphism
+Dialogue: 0,0:44:19.20,0:44:21.20,Default,,0,0,0,,one of the weaknesses of this languages
+Dialogue: 0,0:44:21.20,0:44:23.88,Default,,0,0,0,,You have to use inheritance to get polymorphism
+Dialogue: 0,0:44:23.88,0:44:29.60,Default,,0,0,0,,Ok. Which leaves us with the last of those three
+Dialogue: 0,0:44:29.60,0:44:31.60,Default,,0,0,0,,Polymorphism
+Dialogue: 0,0:44:31.60,0:44:33.60,Default,,0,0,0,,Did we have polymorphism in C?
+Dialogue: 0,0:44:35.48,0:44:40.28,Default,,0,0,0,,Well, sort of, sort of...
+Dialogue: 0,0:44:40.28,0:44:44.58,Default,,0,0,0,,in C we could to this
+Dialogue: 0,0:44:47.22,0:44:51.04,Default,,0,0,0,,
+Dialogue: 0,0:44:51.04,0:44:52.50,Default,,0,0,0,,copy application
+Dialogue: 0,0:44:52.50,0:44:57.78,Default,,0,0,0,,int C... we used integers in early C
+Dialogue: 0,0:45:07.04,0:45:08.64,Default,,0,0,0,,I think there is parenthese there
+Dialogue: 0,0:45:13.68,0:45:17.32,Default,,0,0,0,,Unix copy programm, vastly simplified
+Dialogue: 0,0:45:18.78,0:45:20.82,Default,,0,0,0,,what does that programm do?
+Dialogue: 0,0:45:23.38,0:45:25.98,Default,,0,0,0,,Ooo, did a nasty...
+Dialogue: 0,0:45:28.64,0:45:31.72,Default,,0,0,0,,It does, but...
+Dialogue: 0,0:45:32.06,0:45:33.54,Default,,0,0,0,,not exactly
+Dialogue: 0,0:45:33.54,0:45:40.26,Default,,0,0,0,,It copies from standart input to standart output
+Dialogue: 0,0:45:40.26,0:45:45.62,Default,,0,0,0,,getChar reads a character from standart input
+Dialogue: 0,0:45:45.62,0:45:48.96,Default,,0,0,0,,putChar writes a character to standart output
+Dialogue: 0,0:45:48.96,0:45:52.66,Default,,0,0,0,,what is standart input? It defaults to the keyboard
+Dialogue: 0,0:45:52.66,0:45:56.40,Default,,0,0,0,,But it doesn't have to be the keyboard, it could be anything
+Dialogue: 0,0:45:56.40,0:46:00.18,Default,,0,0,0,,putChar writes to Standart Output, which is usually the terminal
+Dialogue: 0,0:46:00.18,0:46:03.58,Default,,0,0,0,,I used the word terminal, how old I am...
+Dialogue: 0,0:46:03.58,0:46:06.92,Default,,0,0,0,,But it doesnt have to be the terminal, it could be anything
+Dialogue: 0,0:46:06.92,0:46:12.14,Default,,0,0,0,,thosa are a polymorphic calls. getChar and putChar are a polymorphic method calls
+Dialogue: 0,0:46:12.14,0:46:15.52,Default,,0,0,0,,on a class named "File" if you wish
+Dialogue: 0,0:46:15.52,0:46:19.02,Default,,0,0,0,,just like any other virtual function in C++
+Dialogue: 0,0:46:19.02,0:46:22.66,Default,,0,0,0,,just like any polymorphic function in Java
+Dialogue: 0,0:46:22.66,0:46:25.94,Default,,0,0,0,,I have a type priority there
+Dialogue: 0,0:46:25.94,0:46:29.44,Default,,0,0,0,,every IO driver is just another type
+Dialogue: 0,0:46:29.44,0:46:37.42,Default,,0,0,0,,I had perfect incapsulation in C, I had reasonable inheritance in C, I could get polymorphism in C
+Dialogue: 0,0:46:37.42,0:46:39.76,Default,,0,0,0,,Ow, how did that polymorphism work?
+Dialogue: 0,0:46:41.72,0:46:47.60,Default,,0,0,0,,How was it that the flow of control left getChar and goit into a keyboard driver?
+Dialogue: 0,0:46:50.50,0:46:52.26,Default,,0,0,0,,How that happened?
+Dialogue: 0,0:46:54.98,0:46:58.88,Default,,0,0,0,,getChar was implemented in different ways and just a name is the same?
+Dialogue: 0,0:46:58.70,0:47:02.62,Default,,0,0,0,,Noo, it's much more clever than than, muck more insidious
+Dialogue: 0,0:47:02.62,0:47:06.80,Default,,0,0,0,,Every IO driver had a five magical functions
+Dialogue: 0,0:47:06.80,0:47:11.12,Default,,0,0,0,,Every IO driver had this functions, they all had the exact same signature
+Dialogue: 0,0:47:11.12,0:47:14.02,Default,,0,0,0,,READ, WRITE, OPEN, CLOSE, SEEK
+Dialogue: 0,0:47:14.58,0:47:17.64,Default,,0,0,0,,If you wrote an IO driver, you had to implement those 5 functions
+Dialogue: 0,0:47:17.64,0:47:19.92,Default,,0,0,0,,And the fife functions had to have the same signature
+Dialogue: 0,0:47:19.92,0:47:21.86,Default,,0,0,0,,open, close, read, write, seek
+Dialogue: 0,0:47:21.86,0:47:25.96,Default,,0,0,0,,The operating system will take pointers to those functions and put it into a table
+Dialogue: 0,0:47:25.96,0:47:27.96,Default,,0,0,0,,
